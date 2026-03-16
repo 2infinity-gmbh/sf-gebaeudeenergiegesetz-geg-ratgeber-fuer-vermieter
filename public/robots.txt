@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gebaeudeenergiegesetz-geg-ratgeber-fuer-vermieter.de/sitemap.xml
